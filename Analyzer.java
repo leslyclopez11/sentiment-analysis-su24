@@ -16,7 +16,7 @@ public class Analyzer {
 	 */
 	public static Map<String, Double> calculateWordScores(Set<Sentence> sentences) {
 		/*
-		 * Implement this method in Part 2 does it work?
+		 * Implement this method in Part 2
 		 */
 		return null;
 	}
